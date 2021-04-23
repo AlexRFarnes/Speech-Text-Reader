@@ -18,9 +18,9 @@ A text to speech app made with the Web Speech API. Read the text from a descript
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/115818213-e3122480-a42e-11eb-9dac-f0844ddd9065.png)
 
-[Demo]()
+[Demo](https://dreamy-kepler-997c59.netlify.app)
 
 ## Built With
 
